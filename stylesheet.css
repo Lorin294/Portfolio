@@ -1,0 +1,152 @@
+body {
+  background-color: rgb(245, 219, 185);
+}
+
+.name {
+  text-align: left;
+  font-family: Limelight;
+  font-size: 140px;
+}
+.s1 {
+  display: flex;
+  padding-left: 50px;
+  padding-top: 33.438px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 100%;
+}
+
+.beruf {
+  font-size: 59px;
+  font-weight: 1000;
+  justify-content: center;
+}
+
+.foto1 {
+  width: 20vw;
+  border: solid black;
+  border-radius: 10%;
+  object-fit: cover;
+  height: 35vw;
+}
+
+.Quote1 {
+  margin: 0%;
+  font-size: 30px;
+}
+
+.Q {
+  display: flex;
+  flex-direction: column;
+}
+
+.s2 {
+  margin-left: -12px;
+  margin-right: -8px;
+  margin-top: 20px;
+  background-color: rgb(236, 196, 122);
+  padding-left: 200px;
+  padding-top: 5px;
+  flex-direction: row-reverse;
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: flex-end;
+  justify-content: space-around;
+  flex-wrap: wrap-reverse;
+  margin-bottom: -30px;
+}
+
+.list {
+  font-size: 35px;
+}
+
+a {
+  color: black;
+  text-decoration-line: none;
+  text-decoration-color: black;
+  text-decoration-style: solid;
+}
+
+.st {
+  font-size: 80px;
+}
+
+.foto2 {
+  border: solid black;
+  border-radius: 10%;
+  object-fit: cover;
+  height: 30vw;
+}
+
+.s3 {
+  padding-left: 325px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Projekt {
+  font-size: 50px;
+  padding: 15px;
+  max-width: fit-content;
+}
+
+.s4 {
+  background-color: rgb(236, 196, 122);
+}
+
+.nr2 {
+  padding-left: 50px;
+}
+
+.bio {
+  font-size: 35px;
+  background-color: blanchedalmond;
+  border: solid black;
+  border-radius: 5%;
+  padding-left: 15px;
+  max-width: 35%;
+}
+
+.home {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.BT {
+  padding-left: 60px;
+  font-size: 45px;
+}
+
+.nav1 {
+  display: flex;
+  background-color: rgb(233, 162, 81);
+  width: 100%;
+  padding-right: 3px;
+  margin-top: -10px;
+  margin-left: -8px;
+  padding-left: 13px;
+}
+
+.nav2 {
+  display: flex;
+  background-color: rgb(233, 162, 81);
+  width: 100;
+  margin-left: -60px;
+  padding-left: 65px;
+  margin-top: -10px;
+  margin-right: -8px;
+}
+
+.BD {
+  display: flex;
+  flex-direction: row;
+}
+.BuLa {
+   border: solid black;
+  border-radius: 10%;
+  object-fit: cover;
+  height: 35vw;
+  margin-left: 30px;
+  margin-top: 60px;
+}
